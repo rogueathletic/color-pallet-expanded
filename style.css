@@ -1,0 +1,301 @@
+
+
+
+* {
+    /* text-transform: uppercase; */
+
+} 
+
+.jumbotron {
+    height: 90vh;
+    width: 90vw;
+    margin: 2vh 0 0 5vw;
+    border-radius: 5px 5px 15px 5px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+/* initial style */
+#one,
+#two,
+#three,
+#four,
+#five,
+#six,
+#seven,
+#eight,
+#nine,
+#ten,
+#eleven,
+#twelve,
+#thirteen,
+#fourteen,
+#fifteen,
+#sixteen,
+#seventeen,
+#eighteen,
+#nineteen,
+#twenty,
+#twentyOne,
+#twentyTwo,
+#twentyThree,
+#twentyFour,
+#twentyFive,
+#twentySix,
+#twentySeven,
+#twentyEight,
+#twentyNine,
+#thirty,
+#thirtyOne,
+#thirtyTwo,
+#thirtyThree,
+#thirtyFour,
+#thirtyFive,
+#thirtySix {
+    height: 420px!important;
+    min-width: 450px!important;
+    width: 80vw!important;
+    float: left;
+    margin: 5vh 5vw 5vh 5vw;
+    padding: 2vw 0 0 0px;
+    text-indent: 10px;
+    border-radius: 5px 5px 15px 5px;
+    /* letter-spacing: 0; */
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+}
+
+/* hover style */
+
+#one:hover,
+#two:hover,
+#three:hover,
+#four:hover,
+#five:hover,
+#six:hover,
+#seven:hover,
+#eight:hover,
+#nine:hover,
+#ten:hover,
+#eleven:hover,
+#twelve:hover,
+#thirteen:hover,
+#fourteen:hover,
+#fifteen:hover,
+#sixteen:hover,
+#seventeen:hover,
+#eighteen:hover,
+#nineteen:hover,
+#twenty:hover,
+#twentyOne:hover,
+#twentyTwo:hover,
+#twentyThree:hover,
+#twentyFour:hover,
+#twentyFive:hover,
+#twentySix:hover,
+#twentySeven:hover,
+#twentyEight:hover,
+#twentyNine:hover,
+#thirty:hover,
+#thirtyOne:hover,
+#thirtyTwo:hover,
+#thirtyThree:hover,
+#thirtyFour:hover,
+#thirtyFive:hover,
+#thirtySix:hover {
+    color: rgba(255, 255, 255, 0.4)
+}
+
+
+/* declaritive of code applied to create color */
+pre {
+width: 420px;
+height: 200px;
+position: relative;
+left: 20vw;
+font-size: 20px;
+}
+
+
+
+#one {
+    background: linear-gradient(#2193b0, #6dd5ed);
+
+}
+
+#two {
+    background: linear-gradient(#2193b0, #6dd5ed);
+
+}
+
+#three {
+    background: linear-gradient(orange, gold);
+
+}
+
+#four {
+    background: linear-gradient(#33aeae, #66cc);
+
+}
+
+#five {
+    background: linear-gradient(#33aeae, #66cc);
+
+}
+
+#six {
+    background: linear-gradient(#33aeae, #66cc);
+
+}
+
+#seven {
+    background: linear-gradient(#33aeae, #66cc);
+
+}
+
+#eight {
+    background: linear-gradient(#33aeae, #66cc);
+
+}
+
+#nine {
+    background: linear-gradient(#33aeae, #66cc);
+
+}
+
+#ten {
+    background: linear-gradient(#33aeae, #66cc);
+
+}
+
+#eleven {
+    background: linear-gradient(#33aeae, #66cc);
+
+}
+
+#twelve {
+    background: linear-gradient(#33aeae, #66cc);
+
+}
+
+#thirteen {
+    background: linear-gradient(#33aeae, #66cc);
+
+}
+
+#fourteen {
+    background: linear-gradient(#33aeae, #66cc);
+
+}
+
+#fifteen {
+    background: linear-gradient(#33aeae, #66cc);
+
+}
+
+#sixteen {
+    background: linear-gradient(#33aeae, #66cc);
+
+}
+
+#seventeen {
+    background: linear-gradient(#33aeae, #66cc);
+
+}
+
+#eighteen {
+    background: linear-gradient(#33aeae, #66cc);
+
+}
+
+#nineteen {
+    background: linear-gradient(#33aeae, #66cc);
+
+}
+
+#twenty {
+    background: linear-gradient(#33aeae, #66cc);
+
+}
+
+#twentyOne {
+    background: linear-gradient(#33aeae, #66cc);
+
+}
+
+#twentyTwo {
+    background: linear-gradient(#33aeae, #66cc);
+
+}
+
+#twentyThree {
+    background: linear-gradient(#33aeae, #66cc);
+
+}
+
+#twentyFour {
+    background: linear-gradient(#33aeae, #66cc);
+
+}
+
+#twentyFive {
+    background: linear-gradient(#33aeae, #66cc);
+
+}
+
+#twentySix {
+    background: linear-gradient(#33aeae, #66cc);
+
+}
+
+#twentySeven {
+    background: linear-gradient(#33aeae, #66cc);
+
+}
+
+#twentyEight {
+    background: linear-gradient(#33aeae, #66cc);
+
+}
+
+#twentyNine {
+    background: linear-gradient(#33aeae, #66cc);
+
+}
+
+#thirty {
+    background: linear-gradient(#33aeae, #66cc);
+
+}
+
+#thirtyOne {
+    background: linear-gradient(#33aeae, #66cc);
+
+}
+
+#thirtyTwo {
+    background: linear-gradient(#33aeae, #66cc);
+
+}
+
+#thirtyThree {
+    background: linear-gradient(#33aeae, #66cc);
+
+}
+
+#thirty-four {
+    background: linear-gradient(#33aeae, #66cc);
+
+}
+
+#thirtyFive {
+    background: linear-gradient(#2193b0, #6dd5ed);
+
+}
+
+#thirtySix {
+    background: linear-gradient(#ffafbd, #ffc3a0);
+
+}
